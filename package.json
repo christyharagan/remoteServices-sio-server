@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "dependencies": {
     "underscore": "~1.6.0",
-    "cjh-remoteServices": "0.0.1",
+    "cjh-remoteServices": "~0.0.1",
     "socket.io": "~1.0.6"
   },
   "devDependencies": {
